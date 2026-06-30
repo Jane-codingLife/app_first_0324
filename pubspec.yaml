@@ -44,6 +44,8 @@ dependencies:
   photo_view: ^0.15.0
   image_picker: ^1.2.2
   shared_preferences: ^2.5.5
+  percent_indicator: ^4.2.5
+  progress_indicators: ^1.0.0
 
 dev_dependencies:
   flutter_test:
